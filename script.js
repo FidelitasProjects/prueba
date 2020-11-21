@@ -45,7 +45,7 @@ const products = {
         "price": '20.5'
     },
     12: {
-        "name": 'Rose Gold sandals',
+        "name": 'Giank',
         "price": '13.45'
     }
 }
