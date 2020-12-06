@@ -14,7 +14,7 @@ input.addEventListener("keyup", function (event) {
         text.style.display = "none"
     }
 });
-const phone = document.querySelector('.phone');
+const phone = document.querySelector('.validation');
 const name = document.querySelector('.name');
 const err = document.querySelector('.err');  
 
